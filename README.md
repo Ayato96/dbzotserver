@@ -73,8 +73,6 @@ Keep in mind that everyone who is watching the repository gets notified by e-mai
 </article>
       </div>
   </div>
-
-
 </div>
     <div class="flex-shrink-0 col-12 col-md-3">
       <div class="BorderGrid BorderGrid--spacious" data-pjax>
@@ -83,4 +81,11 @@ Keep in mind that everyone who is watching the repository gets notified by e-mai
             <h2 class="mb-3 h4">About</h2>
     <p class="f4 mt-3">
       A free and open-source MMORPG server emulator written in C++
+    </p>
+	            <h2 class="mb-3 h4">Tools</h2>
+    <p class="f4 mt-3">
+      Remeres 3.5 LINK HERE
+	  ObectBuilder 0.4 LINK HERE
+	  ITEM EDITOR NEW SOURCE 1.0 LINK HERE
+	  Client 10.98 NEW FOR DBZ LINK HERE
     </p>

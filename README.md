@@ -84,8 +84,8 @@ Keep in mind that everyone who is watching the repository gets notified by e-mai
     </p>
 	            <h2 class="mb-3 h4">Tools</h2>
     <p class="f4 mt-3">
-      Remeres 3.5 LINK HERE
-	  ObectBuilder 0.4 LINK HERE
-	  ITEM EDITOR NEW SOURCE 1.0 LINK HERE
-	  Client 10.98 NEW FOR DBZ LINK HERE
+      <p>Remeres 3.5 LINK HERE </p>
+	<p>  ObectBuilder 0.4 LINK HERE</p>
+	 <p> ITEM EDITOR NEW SOURCE 1.0 LINK HERE</p>
+	 <p> Client 10.98 NEW FOR DBZ LINK HERE</p>
     </p>

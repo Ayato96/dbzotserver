@@ -59,3 +59,5 @@ If you were unable to get assistance in the support forum, you should consider e
 </svg>
 </a>Issues
 </h3>
+<p>We use the <a href="https://github.com/Underewarrr/dbzotserver/issues">
+issue tracker on GitHub</a>. Keep in mind that everyone who is watching the repository gets notified by e-mail when there is activity, so be thoughtful and avoid writing comments that aren't meaningful for an issue (e.g. "+1"). If you'd like for an issue to be fixed faster, you should either fix it yourself and submit a pull request, or place a bounty on the issue.</p>

@@ -52,10 +52,11 @@ OpenTibiaUnity</a>.
 </a>Support
 </h3>
 
-<p>If you need help, please visit the <a href="http://ots-support.0hi.me/" rel="nofollow">
+<!--<p>If you need help, please visit the <a href="http://ots-support.0hi.me/" rel="nofollow">
 support forum on OTS</a>. 
 Our issue tracker is not a support forum, and using it as one will result in your issue being closed.
 If you were unable to get assistance in the support forum, you should consider enter on this forum.
+-->
 	<p><a href="https://xtibia.com/" rel="nofollow"><img src="https://xtibia.com/forum/uploads/monthly_2020_09/forum_logo.png.8eb8e91f2d964610995546c79457305e.png" alt="Supported by OTS" data-canonical-src="https://xtibia.com/forum/uploads/monthly_2020_09/forum_logo.png.8eb8e91f2d964610995546c79457305e.png" style="max-width:100%;"></a></p>
 <h3>
 <a id="user-content-issues" class="anchor" aria-hidden="true" href="#issues">

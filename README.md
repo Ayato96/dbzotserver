@@ -64,7 +64,7 @@ issue tracker on GitHub</a>. Keep in mind that everyone who is watching the repo
 	<h2 class="mb-3 h4">Tools</h2>
     <p class="f4 mt-3">
       <p><a href="https://xtibia.com/forum/topic/252541-remeres-map-editor-35/">Remeres 3.5</a>.</p>
-	<p>  ObectBuilder 0.4 LINK HERE</p>
+	<p><a href="https://github.com/Underewarrr/objectbuilder_afteredition">Object Builder Custom Version 1.0.8</a>.</p>
 	 <p> ITEM EDITOR NEW SOURCE 1.0 LINK HERE</p>
 	 <p> Client 10.98 NEW FOR DBZ LINK HERE</p>
     </p>

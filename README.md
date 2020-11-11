@@ -56,7 +56,7 @@ OpenTibiaUnity</a>.
 support forum on OTS</a>. 
 Our issue tracker is not a support forum, and using it as one will result in your issue being closed.
 If you were unable to get assistance in the support forum, you should consider enter on this forum.
-	<p><a href="https://xtibia.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/5d66d21df2aa5e4b8b4e5ad99a7508875f2aa620f91ef32eaa5a5da1e152a5da/68747470733a2f2f666f72756d732e6f74736572762e636f6d2e62722f75706c6f6164732f6d6f6e74686c795f323031385f30352f6f7462722e706e672e39663334643831393237386531373063373364643135356130636131623530312e706e67" alt="Supported by OTS" data-canonical-src="https://xtibia.com/forum/uploads/monthly_2020_09/forum_logo.png.8eb8e91f2d964610995546c79457305e.png" style="max-width:100%;"></a></p>
+	<p><a href="https://xtibia.com/" rel="nofollow"><img src="https://xtibia.com/forum/uploads/monthly_2020_09/forum_logo.png.8eb8e91f2d964610995546c79457305e.png" alt="Supported by OTS" data-canonical-src="https://xtibia.com/forum/uploads/monthly_2020_09/forum_logo.png.8eb8e91f2d964610995546c79457305e.png" style="max-width:100%;"></a></p>
 <h3>
 <a id="user-content-issues" class="anchor" aria-hidden="true" href="#issues">
 <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
